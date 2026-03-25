@@ -1,0 +1,31 @@
+{
+  "name": "@trustlayer/plugin-elizaos",
+  "description": "TrustLayer reputation scoring for AI agents. Pre-transaction trust checks, Sybil detection, and cross-chain agent reputation across 6 chains (BSC, Ethereum, Base, Monad, Polygon, Solana). Paid via x402 micropayments.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goatgaucho/elizaos-plugin-trustlayer"
+  },
+  "maintainers": [
+    {
+      "name": "goatgaucho",
+      "github": "goatgaucho"
+    }
+  ],
+  "categories": ["trust", "reputation", "security"],
+  "tags": ["x402", "erc-8004", "sybil-detection", "reputation", "trust-score", "agent-to-agent"],
+  "versions": [
+    {
+      "version": "0.1.0",
+      "gitBranch": "main",
+      "gitTag": "v0.1.0",
+      "runtimeVersion": "1.0.0",
+      "releaseDate": "2026-03-25T04:00:00.000Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": "0.1.0",
+  "latestVersion": "0.1.0",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
